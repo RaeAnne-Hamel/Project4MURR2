@@ -23,9 +23,9 @@ Frontend (Vue.js and BootStrapVue)
     - redirect to Points view unpon successful entry.
     - axios(HTTP) POST call to the API.
 
-![Create Login View](CreateLogin.JPG)
+![Create Login View](images/CreateLogin.JPG)
 
-![Create Login with Errors](CreateLoginError.JPG)
+![Create Login with Errors](images/CreateLoginError.JPG)
 
   - DriverCollection features:
     -  dynamic site list, that pulls items from the database using a promise object.
@@ -35,18 +35,18 @@ Frontend (Vue.js and BootStrapVue)
     -  Pickup action button to redirect to the collection form.
     -  custom validation for an empty list and empty-filtered list(if a site does not exist).
 
-![DriverCollection View](DriverCollection.JPG)
+![DriverCollection View](images/DriverCollection.JPG)
 
-![DriverCollection with Error](CollectionError.JPG)
+![DriverCollection with Error](images/CollectionError.JPG)
 
   - DriverPickUp features:
     - custom numeric entry 
     - custom validation 
     - redirect to add site points modal
   
-![DriverPickUP View](DriverPickUp.JPG)
+![DriverPickUP View](images/DriverPickUp.JPG)
   
-![DriverPickup with Error](PickupError.JPG)
+![DriverPickup with Error](images/PickupError.JPG)
   
 
 
@@ -55,12 +55,12 @@ Frontend (Vue.js and BootStrapVue)
 
 Sequence Diagrams
 
-![DriverCollection Sequence Diagram](SequenceDia.JPG)
+![DriverCollection Sequence Diagram](images/SequenceDia.JPG)
 
-![DriverPickUp Sequence Diagram](SeqDia.JPG)
+![DriverPickUp Sequence Diagram](images/SeqDia.JPG)
 
 Mock-ups
 
-![DriverPickup GUI Mock-up](MockGUI.JPG)
+![DriverPickup GUI Mock-up](images/MockGUI.JPG)
 
-![CreateLogin GUI Mock-up with Validation](ValidMock.JPG)
+![CreateLogin GUI Mock-up with Validation](images/ValidMock.JPG)
