@@ -64,3 +64,39 @@ Mock-ups
 ![DriverPickup GUI Mock-up](images/MockGUI.JPG)
 
 ![CreateLogin GUI Mock-up with Validation](images/ValidMockCL.JPG)
+
+# Notes: Use on Programs
+# cweb-vuejs
+
+## Project setup - in terminal navigate to \murr-ui\
+```
+npm install
+```
+
+### Compiles and hot-reloads for development  - in terminal navigate to \murr-ui\
+```
+npm run serve
+```
+
+### Compiles and minifies for production  - in terminal navigate to \murr-ui\
+```
+npm run build
+```
+
+### Lints and fixes files - in terminal navigate to \murr-ui\
+```
+npm run lint
+```
+
+### PHP Webserver - in terminal, navigate to \murr-api\
+```
+php -S 127.0.0.1:8000 -t public
+```
+
+### PHP Composer Install - in terminal, navigate to \murr-api\
+```
+php commposer.phar install
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
