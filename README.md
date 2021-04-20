@@ -63,4 +63,4 @@ Mock-ups
 
 ![DriverPickup GUI Mock-up](images/MockGUI.JPG)
 
-![CreateLogin GUI Mock-up with Validation](images/ValidMock.JPG)
+![CreateLogin GUI Mock-up with Validation](images/ValidMockCL.JPG)
